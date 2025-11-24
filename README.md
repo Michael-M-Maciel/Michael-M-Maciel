@@ -1,7 +1,7 @@
 # Olá, eu sou o Michael Maciel! 👋
 
 Estudante de **Ciência da Computação** na UNIFG e em formação **Full Stack** pela Infinity School.
-Sou apaixonado por tecnologia, com foco em **Python**,**Inteligência Artificial**, **Ciência de Dados** e **Machine Learning** .
+Sou apaixonado por tecnologia, com foco em **Python**, **Inteligência Artificial**, **Ciência de Dados** e **Machine Learning** .
 
 ---
 
