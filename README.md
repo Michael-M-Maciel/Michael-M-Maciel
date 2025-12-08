@@ -1,7 +1,7 @@
 # Olá, eu sou o Michael Maciel! 👋
 
 Estudante de **Ciência da Computação** na UNIFG e em formação **Full Stack** pela Infinity School.
-Sou apaixonado por tecnologia, com foco em **Python**, **Inteligência Artificial**, **Ciência de Dados** e **Machine Learning** .
+Sou apaixonado por tecnologia, com foco em **Python**, **Inteligência Artificial**, **Ciência de Dados** e **Machine Learning**.
 
 ---
 
@@ -28,9 +28,9 @@ Sou apaixonado por tecnologia, com foco em **Python**, **Inteligência Artificia
 ### 📊 Minhas Estatísticas no GitHub
 
 <div align="left">
-  <img height="180" src="https://michael-m-maciel.vercel.app/api?username=Michael-M-Maciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://michael-m-maciel.vercel.app/api?username=Michael-M-Maciel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=4"/>
 
-  <img height="180" src="https://michael-m-maciel.vercel.app/api/top-langs/?username=Michael-M-Maciel&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180" src="https://michael-m-maciel.vercel.app/api/top-langs/?username=Michael-M-Maciel&layout=compact&langs_count=7&theme=dracula&v=4"/>
 </div>
 
 ---
