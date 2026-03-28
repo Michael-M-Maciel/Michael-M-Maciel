@@ -12,7 +12,7 @@ Minha jornada começou no desenvolvimento Full Stack, o que me deu uma visão de
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Michael-M-Maciel&show_icons=true&theme=tokyonight" height="170em"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Michael-M-Maciel&layout=compact&theme=tokyonight" height="170em"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Michael-M-Maciel&layout=compact&theme=tokyonight&langs_count=10" height="170em"/>
 </p>
 
 <p align="center">
@@ -73,3 +73,4 @@ Projeto focado em consultas SQL, análise de dados e simulação de regras de ne
 ---
 
 ⭐ *Transformando dados em decisões inteligentes*
+
