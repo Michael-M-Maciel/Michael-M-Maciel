@@ -21,7 +21,7 @@ Minha jornada começou no desenvolvimento Full Stack, o que me deu uma visão pr
 
 - 🎓 **Formação:** Ciência da Computação (UNIFG).
 - 💻 **Base Sólida:** Desenvolvimento Full Stack pela Infinity School (Python, HTML, CSS, JavaScript).
-- 🗄️ **Foco Atual:** Dominando a extração e manipulação de dados em bancos de dados relacionais (SQL e MySQL).
+- 🗄️ **Foco Atual:** Expandindo o aprendizado em extração e manipulação de dados (SQL e MySQL).
 - 🎯 **Próximos Passos:** Iniciar estudos em bibliotecas de dados em Python (Pandas, NumPy), visualização de dados (Power BI, Excel) e, futuramente, Ciência de Dados e IA.
 
 ---
